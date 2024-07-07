@@ -7,7 +7,8 @@ Since I've been working with SpiceDB for a while, the purpose of this example is
 SpiceDB is Google Zanzibar like and is available under the permissive Apache License 2.0. 
 Google Zanzibar Authorization System is a scalable service for managing fine-grained access control using Relationship-Based Access Control (ReBAC)
 
-The program does nothing more than respond if the text submitted to it is correct with regard to the grammar
+The program does nothing more than respond if the text submitted to it is correct with regard to the grammar.
+
 No semantic analysis for now.
 
 
