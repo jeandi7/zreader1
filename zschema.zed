@@ -1,0 +1,10 @@
+definition monsujet { } 
+
+definition monsujet2 { 
+    relation marelation: monsujet
+} 
+
+definition maressource { 
+    relation marelation: monsujet | monsujet2  
+    relation marelation2: monsujet | monsujet2 | monsujet3
+}
