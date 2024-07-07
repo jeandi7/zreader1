@@ -5,7 +5,9 @@ I wanted to offer in Golang the example of a small handwritten analyzer.
 Since I've been working with SpiceDB for a while, the purpose of this example is to provide sample code that implements a subset of the SpiceDB grammar.
 
 SpiceDB is Google Zanzibar like and is available under the permissive Apache License 2.0. 
+
 Google Zanzibar Authorization System is a scalable service for managing fine-grained access control using Relationship-Based Access Control (ReBAC)
+(See https://github.com/jeandi7/prologzanzibar)
 
 The program does nothing more than respond if the text submitted to it is correct with regard to the grammar.
 
