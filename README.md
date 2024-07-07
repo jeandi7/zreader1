@@ -66,7 +66,7 @@ go run  zreader.go -fschema "./zschema.zed"
 
 I keep the .zed extension for the reading of a file that allows me to keep the spicedb coloring thanks to the Visio Authzed-language-support plug-in
 
-![example](images\zschema.png)
+![example](./images/zschema.png)
 
 
 response: parsed schema OK: [{monsujet []} {monsujet2 [{marelation [monsujet]}]} {maressource [{marelation [monsujet monsujet2]} {marelation2 [monsujet monsujet2 monsujet3]}]}]
